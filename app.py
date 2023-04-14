@@ -108,4 +108,5 @@ if submitted:
     st.write(cat[0])
 
 st.markdown("<h5 style='text-align: right; color: white;'> Developed By </h5>", unsafe_allow_html=True)
-st.markdown("<h5 style='text-align: right; color: white;'> Divyansh Jain </h5>", unsafe_allow_html=True)
+st.markdown("<h5 style='text-align: right; color: white;'> Rajkishore S V </h5>", unsafe_allow_html=True)
+st.markdown("<h5 style='text-align: right; color: white;'> Referance credits to : Divyansh Jain </h5>", unsafe_allow_html=True)

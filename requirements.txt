@@ -1,5 +1,5 @@
-joblib==1.2.0
-nltk==3.7
-numpy==1.23.3
-scipy==1.9.1
-scikit-learn==1.2.2
+joblib
+nltk
+numpy
+scipy
+scikit-learn
